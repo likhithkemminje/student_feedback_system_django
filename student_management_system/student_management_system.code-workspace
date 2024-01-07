@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../student_management_app"
+		},
+		{
+			"path": "../static"
+		},
+		{
+			"path": "../media"
+		}
+	]
+}
